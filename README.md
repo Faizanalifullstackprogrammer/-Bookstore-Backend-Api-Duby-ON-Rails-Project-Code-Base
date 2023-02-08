@@ -44,11 +44,23 @@ e.g. `port ENV.fetch("PORT") { 3001 }`
 
 ## Author
 
-👤 **Divyesh Patel**
+👤 **Mian Faizan Ali Full Stack Programmer**
 
-- GitHub: [@Div685](https://github.com/Div685)
-- Twitter: [@div_685](https://twitter.com/div_685)
-- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-daxa-patel/)
+- GitHub: [@Faizanalifullstackprogrammer](https://github.com/Faizanalifullstackprogrammer)
+- Twitter: [@mianfaizanali](https://twitter.com/mianfaizanali)
+- LinkedIn: [Mianfaizanali](https://pk.linkedin.com/in/mianfaizanali)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to connect anytime
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
 
 ## Contributing
 
@@ -62,9 +74,7 @@ Feel free to check the [issues page](../../issues).
 5. Open a Pull Request
 
 
-## Show your support
 
-Give a ⭐️ if you like this project!
 
 ## Acknowledgements
 * [Ruby on Rails guide](https://guides.rubyonrails.org/api_documentation_guidelines.html)
